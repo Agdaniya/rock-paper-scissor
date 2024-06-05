@@ -23,7 +23,7 @@ while True:
                 print("computer:", comp)
                 print("player:", p1)
                 computer += 1
-            else:  # comp == "scissors"
+            else: 
                 print("computer:", comp)
                 print("player:", p1)
                 player += 1
@@ -32,7 +32,7 @@ while True:
                 print("computer:", comp)
                 print("player:", p1)
                 computer += 1
-            else:  # comp == "rock"
+            else:  
                 print("computer:", comp)
                 print("player:", p1)
                 player += 1
@@ -41,7 +41,7 @@ while True:
                 print("computer:", comp)
                 print("player:", p1)
                 computer += 1
-            else:  # comp == "paper"
+            else:  
                 print("computer:", comp)
                 print("player:", p1)
                 player += 1
